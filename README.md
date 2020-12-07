@@ -1,4 +1,4 @@
-This folder contains the supplementary data for:
+This folder contains the supplementary data  and the code to run the Bayesian mixed membership model for the following paper:
 
 Jameel, Y; D Valle and P Kay, 2020, Science of The Total Environment. Meta-analysis of frequently studied pharmaceuticals in European, Asian and North American rivers. https://doi.org/10.1016/j.scitotenv.2020.137947
 
